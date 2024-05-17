@@ -11,5 +11,7 @@ Learn More
 You can learn more in the Create React App documentation.
 
 To learn React, check out the React documentation.
+
+You can run 
 nodemon index.js(for backend)
 
